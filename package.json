@@ -1,0 +1,22 @@
+{
+  "name": "test-missing-scoped-dep-version-npm-package",
+  "version": "1.0.0",
+  "description": "Missing scoped package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dependabot-fixtures/test-missing-scoped-dep-version-npm-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dependabot-fixtures/test-missing-scoped-dep-version-npm-package/issues"
+  },
+  "homepage": "https://github.com/dependabot-fixtures/test-missing-scoped-dep-version-npm-package#readme",
+  "dependencies": {
+    "@dependabot/dummy-pkg-b": "^1.2.0"
+  }
+}
