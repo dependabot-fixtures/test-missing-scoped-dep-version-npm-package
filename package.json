@@ -1,6 +1,6 @@
 {
-  "name": "test-missing-scoped-dep-version-npm-package",
-  "version": "1.0.0",
+  "name": "@dependabot/test-missing-scoped-dep-version-npm-package",
+  "version": "1.0.3",
   "description": "Missing scoped package",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dependabot-fixtures/test-missing-scoped-dep-version-npm-package#readme",
   "dependencies": {
-    "@dependabot/dummy-pkg-b": "^1.3.0"
+    "@dependabot/dummy-pkg-b": "^1.2.0"
   }
 }
